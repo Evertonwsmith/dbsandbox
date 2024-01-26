@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756861381005",
+    "project_id": "dbsandbox-f919b",
+    "storage_bucket": "dbsandbox-f919b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756861381005:android:2b9614cb9ddbf8dcaab5c4",
+        "android_client_info": {
+          "package_name": "com.example.db_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAXrfzCynuXt0rQlGYZEl4BhbD77hDyfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
